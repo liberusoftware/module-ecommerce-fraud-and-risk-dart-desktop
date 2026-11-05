@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-fraud-and-risk-dart-desktop",
+  "capabilityKey": "planned:ecommerce:fraud-and-risk",
+  "presentation": "dart-desktop",
+  "package": "module_ecommerce_fraud_and_risk_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/ecommerce/nextjs/fraud-and-risk.md",
+  "presentationPlan": "projects/ecommerce/features/fraud-and-risk.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
